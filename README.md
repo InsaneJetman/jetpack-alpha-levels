@@ -1,16 +1,16 @@
 # Jetpack Alpha Levels
 
-These are the levels from Jetpack Alpha converted for regular Jetpack.
+These are the levels from Jetpack Alpha converted for Jetpack 2.
 
-The levels have been updated so that they have fuel and can all be completed.
-
-Thanks to Ben_eXceL for creating and editing these.
+The levels have been updated so that they can all be completed.
+Idols are given automatically, and a script provides unlimited fuel.
+Master/Par times have been chosen and tested, and achievements have been selected where appropriate.
 
 ## The Levels
 
-The levels included in Jetpack Alpha are early versions of levels in the full game:
+The levels included in Jetpack Alpha are early versions of levels in Jetpack Origins:
 
-| Alpha Level                 | Jetpack Level                                      |
+| Alpha Level                 | Jetpack Origins Level                              |
 | --------------------------- | -------------------------------------------------- |
 | 00: This Should Be Easy     | 01: The Teleporter                                 |
 | 01: Tornado                 | 52: Tornado                                        |
