@@ -2,7 +2,7 @@
 
 These are the levels from Jetpack Alpha converted for regular Jetpack.
 
-The levels have been updated so that they have fuel and can all be finished.
+The levels have been updated so that they have fuel and can all be completed.
 
 Thanks to Ben_eXceL for creating and editing these.
 
